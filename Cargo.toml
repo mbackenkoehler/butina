@@ -1,0 +1,11 @@
+[package]
+name = "butina"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.15"
+ndarray-npy = "0.8"
+anyhow = "1.0"
+rayon = "1.10"
+indicatif = "0.17"
